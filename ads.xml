@@ -1,0 +1,19 @@
+﻿<Advertisements>
+   <Ad>
+      <ImageUrl>flippy.jpg</ImageUrl>
+      <NavigateUrl>https://www.flipkart.com/</NavigateUrl>
+      <AlternateText>
+         Order gifts and more
+      </AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>flipkart</Keyword>
+   </Ad>
+
+   <Ad>
+      <ImageUrl>amazon.jpg</ImageUrl>
+      <NavigateUrl>http://www.amazon.in/</NavigateUrl>
+      <AlternateText>Order gifts and more</AlternateText>
+      <Impressions>20</Impressions>
+      <Keyword>amazon</Keyword>
+   </Ad>
+</Advertisements>
